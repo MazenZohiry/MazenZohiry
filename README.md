@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on accelerating the world's transition to sustainable energy
+- 🌱 I’m always learning about Aerodynamics & Computational Modeling 
+- 📫 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/mzohiry)
+
 <!--
 **MazenZohiry/MazenZohiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
