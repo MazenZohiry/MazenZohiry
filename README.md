@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 (The page is still being polished :hammer_and_wrench:)
 
 - 🔭 I’m currently working on accelerating the world's transition to sustainable energy
 - 🌱 I’m always learning about Aerodynamics & Computational Modeling 
-- :mag:	Some repos around side and school projects. Take a look around! (The page is still being polished :hammer_and_wrench:)
+- :mag:	Some repos around side and school projects. Take a look around! 
 - 📫 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/mzohiry)
 
 <!--
