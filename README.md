@@ -1,4 +1,4 @@
-### Hi there 👋 (The page is still being polished :hammer_and_wrench:)
+### Hi there 👋 (The page is still under construction :hammer_and_wrench:)
 
 - 🔭 I’m currently working on accelerating the world's transition to sustainable energy
 - 🌱 I’m always learning about Aerodynamics & Computational Modeling 
